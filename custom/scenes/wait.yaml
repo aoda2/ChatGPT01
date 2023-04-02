@@ -1,0 +1,5 @@
+intentEvents:
+- handler:
+    webhookHandler: pop
+  intent: pop
+  transitionToScene: wait

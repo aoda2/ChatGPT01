@@ -1,0 +1,3 @@
+handler:
+  webhookHandler: get_message
+transitionToScene: wait

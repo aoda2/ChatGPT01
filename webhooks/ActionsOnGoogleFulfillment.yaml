@@ -1,0 +1,5 @@
+handlers:
+- name: get_message
+- name: pop
+inlineCloudFunction:
+  executeFunction: ActionsOnGoogleFulfillment

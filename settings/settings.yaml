@@ -1,0 +1,15 @@
+category: GAMES_AND_TRIVIA
+defaultLocale: ja
+localizedSettings:
+  developerEmail: xxx
+  developerName: aoda
+  displayName: xxx
+  fullDescription: ChatGPTとの会話
+  privacyPolicyUrl: xxx
+  pronunciation: xxx
+  sampleInvocations: xxx
+  shortDescription: ChatGPTとの会話
+  smallLogoImage: xxx
+  termsOfServiceUrl: xxx
+  voice: female_1
+projectId: xxx

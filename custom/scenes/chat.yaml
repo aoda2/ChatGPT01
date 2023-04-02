@@ -1,0 +1,5 @@
+intentEvents:
+- handler:
+    webhookHandler: get_message
+  intent: start
+  transitionToScene: wait
